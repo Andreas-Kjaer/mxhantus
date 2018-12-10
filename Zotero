@@ -1,0 +1,545 @@
+
+@article{konovalova_extracellular_2010,
+	title = {Extracellular biology of {Myxococcus} xanthus},
+	volume = {34},
+	issn = {0168-6445},
+	url = {http://dx.doi.org/10.1111/j.1574-6976.2009.00194.x},
+	doi = {10.1111/j.1574-6976.2009.00194.x},
+	abstract = {Myxococcus xanthus has a lifecycle characterized by several social interactions. In the presence of prey, M. xanthus is a predator forming cooperatively feeding colonies, and in the absence of nutrients, M. xanthus cells interact to form multicellular, spore-filled fruiting bodies. Formation of both cellular patterns depends on extracellular functions including the extracellular matrix and intercellular signals. Interestingly, the formation of these patterns also depends on several activities that involve direct cell–cell contacts between M. xanthus cells or direct contacts between M. xanthus cells and the substratum, suggesting that M. xanthus cells have a marked ability to distinguish self from nonself. Genome-wide analyses of the M. xanthus genome reveal a large potential for protein secretion. Myxococcus xanthus harbours all protein secretion systems required for translocation of unfolded and folded proteins across the cytoplasmic membrane and an intact type II secretion system. Moreover, M. xanthus contains 60 ATP-binding cassette transporters, two degenerate type III secretion systems, both of which lack the parts in the outer membrane and the needle structure, and an intact type VI secretion system for one-step translocation of proteins across the cell envelope. Also, analyses of the M. xanthus proteome reveal a large protein secretion potential including many proteins of unknown function.},
+	number = {2},
+	journal = {FEMS Microbiology Reviews},
+	author = {Konovalova, Anna and Petters, Tobias and Søgaard-Andersen, Lotte},
+	month = mar,
+	year = {2010},
+	pages = {89--106}
+}
+
+@article{amat_analysis_2010,
+	title = {Analysis of the intact surface layer of {Caulobacter} crescentus by cryo-electron tomography},
+	volume = {192},
+	issn = {00219193},
+	doi = {10.1128/JB.00747-10},
+	abstract = {The surface layers (S layers) of those bacteria and archaea that elaborate these crystalline structures have been studied for 40 years. However, most structural analysis has been based on electron microscopy of negatively stained S-layer fragments separated from cells, which can introduce staining artifacts and allow rearrangement of structures prone to self-assemble. We present a quantitative analysis of the structure and organization of the S layer on intact growing cells of the Gram-negative bacterium Caulobacter crescentus using cryo-electron tomography (CET) and statistical image processing. Instead of the expected long-range order, we observed different regions with hexagonally organized subunits exhibiting short-range order and a broad distribution of periodicities. Also, areas of stacked double layers were found, and these increased in extent when the S-layer protein (RsaA) expression level was elevated by addition of multiple rsaA copies. Finally, we combined high-resolution amino acid residue-specific Nanogold labeling and subtomogram averaging of CET volumes to improve our understanding of the correlation between the linear protein sequence and the structure at the 2-nm level of resolution that is presently available. The results support the view that the U-shaped RsaA monomer predicted from negative-stain tomography proceeds from the N terminus at one vertex, corresponding to the axis of 3-fold symmetry, to the C terminus at the opposite vertex, which forms the prominent 6-fold symmetry axis. Such information will help future efforts to analyze subunit interactions and guide selection of internal sites for display of heterologous protein segments.},
+	number = {22},
+	journal = {Journal of Bacteriology},
+	author = {Amat, Fernando and Comolli, Luis R. and Nomellini, John F. and Moussavi, Farshid and Downing, Kenneth H. and Smit, John and Horowitz, Mark},
+	year = {2010},
+	pmid = {20833802},
+	note = {ISBN: 1098-5530 (Electronic){\textbackslash}r0021-9193 (Linking)},
+	pages = {5855--5865}
+}
+
+@article{cava_binding_2004,
+	title = {Binding to pyruvylated compounds as an ancestral mechanism to anchor the outer envelope in primitive bacteria},
+	volume = {52},
+	issn = {0950382X},
+	doi = {10.1111/j.1365-2958.2004.04011.x},
+	abstract = {Electron microscopy of isolated cell walls of the ancient bacterium Thermus thermophilus revealed that most of the peptidoglycan (PG) surface, apart from the septal region, was shielded against specific alphaPG antibodies. On the other hand, an antiserum raised against S-layer-attached cell wall fragments (alphaSAC) bound to most of the surface except for the septal regions. Treatments with alpha-amylase and pronase E made the entire cell wall surface uniformly accessible to alphaPG and severely decreased the binding of alphaSAC. We concluded that a layer of strongly bound secondary cell wall polymers (SCWPs) covers most of the cell wall surface in this ancient bacterium. A preliminary analysis revealed that such SCWPs constitute 14\% of the cell wall and are essentially composed of sugars. Enzyme treatments of the cell walls revealed that SCWP was required in vitro for the binding of the S-layer protein through the S-layer homology (SLH) motif. The csaB gene was necessary for the attachment of the S-layer-outer membrane (OM) complex to the cell wall in growing cells of T. thermophilus. In vitro experiments confirmed that cell walls from a csaB mutant bound to the S-layer with a much lower affinity ( approximately 1/10) than that of the wild type. CsaB was found to be required for pyruvylation of components of the SCWP and for immunodetection with alpha-SAC antiserum. Therefore, the S-layer-OM complex of T. thermophilus binds to the cell wall through the SLH motif of the S-layer protein via a strong interaction with a highly immunogenic pyruvylated component of the SCWP. Immuno-cross-reactive compounds were detected with alphaSAC on cell walls of other Thermus spp. and in the phylogenetically related microorganism Deinococcus radiodurans. These results imply that the interaction between the SLH motif and pyruvylated components of the cell wall arose early during bacterial evolution as an ancestral mechanism for anchoring proteins and outer membranes to the cell walls of primitive bacteria.},
+	number = {3},
+	journal = {Molecular Microbiology},
+	author = {Cava, Felipe and De Pedro, Miguel A. and Schwarz, Heinz and Henne, Anke and Berenguer, José},
+	year = {2004},
+	pmid = {15101975},
+	note = {ISBN: 0950-382X (Print){\textbackslash}r0950-382X (Linking)},
+	pages = {677--690}
+}
+
+@incollection{messner_occurrence_2010,
+	title = {Occurrence, structure, chemistry, genetics, morphogenesis, and functions of {S}-layers},
+	isbn = {978-3-642-05061-9},
+	abstract = {A common feature of many bacteria is the expression of a layer of extracellular polysaccharide usually organised into a discrete structure termed the capsule. The expression of a capsule results in the coating of the bacterium in a hydrated shell of high molecular weight polysaccharide molecules that mediate interactions between the bacterial cell and its immediate environment. The ubiquity of capsule expression across a diverse array of bacterial genera suggests that capsule expression is advantageous in a number of scenarios including infections of plants and animals and maintenance in a broad range of ecosystems. In this chapter we discuss the roles of polysaccharide capsules in the biology of a number of bacterial species and describe how expression of capsule gene expression is achieved in a broad range of bacterial pathogens.},
+	booktitle = {Prokaryotic {Cell} {Wall} {Compounds}: {Structure} and {Biochemistry}},
+	author = {Messner, Paul and Schäffer, Christina and Egelseer, Eva Maria and Sleytr, Uwe B.},
+	year = {2010},
+	doi = {10.1007/978-3-642-05062-6_2},
+	note = {ISSN: 3642050611},
+	pages = {53--109}
+}
+
+@incollection{messner_occurrence_2010-1,
+	title = {Occurrence, structure, chemistry, genetics, morphogenesis, and functions of {S}-layers},
+	isbn = {978-3-642-05061-9},
+	abstract = {A common feature of many bacteria is the expression of a layer of extracellular polysaccharide usually organised into a discrete structure termed the capsule. The expression of a capsule results in the coating of the bacterium in a hydrated shell of high molecular weight polysaccharide molecules that mediate interactions between the bacterial cell and its immediate environment. The ubiquity of capsule expression across a diverse array of bacterial genera suggests that capsule expression is advantageous in a number of scenarios including infections of plants and animals and maintenance in a broad range of ecosystems. In this chapter we discuss the roles of polysaccharide capsules in the biology of a number of bacterial species and describe how expression of capsule gene expression is achieved in a broad range of bacterial pathogens.},
+	booktitle = {Prokaryotic {Cell} {Wall} {Compounds}: {Structure} and {Biochemistry}},
+	author = {Messner, Paul and Schäffer, Christina and Egelseer, Eva Maria and Sleytr, Uwe B.},
+	year = {2010},
+	doi = {10.1007/978-3-642-05062-6_2},
+	note = {ISSN: 3642050611},
+	pages = {53--109}
+}
+
+@article{thompson_association_1982,
+	title = {The association of the surface array and the outer membrane of {Deinococcus} radiodurans},
+	volume = {28},
+	url = {https://doi.org/10.1139/m82-161},
+	doi = {10.1139/m82-161},
+	number = {9},
+	journal = {Canadian Journal of Microbiology},
+	author = {Thompson, B G and Murray, R G E and Boyce, J F},
+	year = {1982},
+	note = {Citation Key: Thompson1982},
+	pages = {1081--1088}
+}
+
+@article{peters_molecular_1986,
+	title = {Molecular cloning, expression, and characterization of the gene for the surface ({HPI})-layer protein of {Deinococcus} radiodurans in {Escherichia} coli.},
+	volume = {167},
+	issn = {0021-9193 (Print)},
+	abstract = {The HPI protein of Deinococcus radiodurans belongs to the class of surface layer proteins which form crystalline two-dimensional arrays on bacterial cell envelopes. We have cloned and expressed the gene for this protein of Mr about 100,000 by using plasmid pUC8 in Escherichia coli. As judged by immunoreaction with monospecific antibodies, apparent Mr, and limited proteolysis, a single clone contained the gene encoding the complete polypeptide on an 8.9-kilobase (kb) insert. The insert was reduced to a 5.7-kb HindIII fragment, cloned in pUC18 in both orientations, and subjected to unilateral processive deletion with exonuclease III. The library of deletion derivatives was mapped and, in conjunction with protein immunoblotting of expressed polypeptides, was used to locate the positions of the structural gene and the Deinococcus promoter region that was responsible for expression of the HPI polypeptide. The HPI gene was confined to a stretch 2.95 kb in length. IMAGES:},
+	language = {eng},
+	number = {3},
+	journal = {Journal of Bacteriology},
+	author = {Peters, J and Baumeister, W},
+	month = sep,
+	year = {1986},
+	pmid = {3528123},
+	pages = {1048--1054}
+}
+
+@article{sleytr_s-layers:_2014,
+	title = {S-layers: {Principles} and applications},
+	volume = {38},
+	issn = {15746976},
+	doi = {10.1111/1574-6976.12063},
+	abstract = {Monomolecular arrays of protein or glycoprotein subunits forming surface layers (S-layers) are one of the most commonly observed prokaryotic cell envelope components. S-layers are generally the most abundantly expressed proteins, have been observed in species of nearly every taxonomical group of walled bacteria, and represent an almost universal feature of archaeal envelopes. The isoporous lattices completely covering the cell surface provide organisms with various selection advantages including functioning as protective coats, molecular sieves and ion traps, as structures involved in surface recognition and cell adhesion, and as antifouling layers. S-layers are also identified to contribute to virulence when present as a structural component of pathogens. In Archaea, most of which possess S-layers as exclusive wall component, they are involved in determining cell shape and cell division. Studies on structure, chemistry, genetics, assembly, function, and evolutionary relationship of S-layers revealed considerable application potential in (nano)biotechnology, biomimetics, biomedicine, and synthetic biology.},
+	number = {5},
+	journal = {FEMS Microbiology Reviews},
+	author = {Sleytr, Uwe B. and Schuster, Bernhard and Egelseer, Eva Maria and Pum, Dietmar},
+	year = {2014},
+	pmid = {24483139},
+	note = {ISBN: 1574-6976},
+	keywords = {Bacterial surface layers, Biomimetics, Crystalline cell surface layers (S-layers), Nanobiotechnology, Self-assembly, Synthetic biology},
+	pages = {823--864}
+}
+
+@article{pavkov-keller_structure_2011,
+	title = {The structure of bacterial {S}-layer proteins},
+	volume = {103},
+	issn = {18771173},
+	doi = {10.1016/B978-0-12-415906-8.00004-2},
+	abstract = {S-layers are self-assembled paracrystalline protein lattices that cover many bacteria and almost all archaea. As an important component of the bacterial cell envelope, S-layers can fulfill various biological functions and are usually the most abundantly expressed protein species in a cell. Here we review the structures of the best characterized S-layer proteins from Gram-positive and Gram-negative bacteria, as well as methods to determine their molecular architecture. © 2011 Elsevier Inc. All rights reserved.},
+	journal = {Progress in Molecular Biology and Translational Science},
+	author = {Pavkov-Keller, Tea and Howorka, Stefan and Keller, Walter},
+	year = {2011},
+	pmid = {21999995},
+	note = {ISBN: 9780124159068},
+	keywords = {SLH motif, X-ray crystallography, bacterial S-layer, electron microscopy, structure},
+	pages = {73--130}
+}
+
+@article{sara_s-layer_2000,
+	title = {S-layer proteins},
+	volume = {182},
+	issn = {00219193},
+	doi = {10.1128/JB.182.4.859-868.2000},
+	abstract = {Cell walls are an important structural component of prokaryotic organisms and essential for many aspects of their life. Particularly, the diverse structures of the outermost boundary layers strongly reflect adaptations of organisms to specific ecological and environmental conditions. Over the past 3 decades of research, it has become apparent that one of the most common surface structures on archaea and bacteria are monomolecular crystalline arrays of proteinaceous subunits termed surface layers or S-layers. Since S-layer-carrying organisms are ubiquitous in the biosphere and because S-layers represent one of the most abundant cellular proteins, it is now obvious that these metabolically expensive products must provide the organisms with an advantage of selection in very different habitats. This minireview provides a brief survey of the current state of our knowledge about S-layers with a particular focus on molecular biological and genetic aspects. Other recent reviews are recommended for a more detailed introduction to and treatises on this subject.},
+	number = {4},
+	journal = {Journal of Bacteriology},
+	author = {Sára, Margit and Sleytr, Uwe B.},
+	year = {2000},
+	pmid = {10648507},
+	note = {ISBN: 0021-9193},
+	pages = {859--868}
+}
+
+@article{mullakhanbhai_halobacterium_1975,
+	title = {Halobacterium volcanii spec. nov., a {Dead} {Sea} halobacterium with a moderate salt requirement},
+	volume = {104},
+	issn = {1432-072X},
+	url = {https://doi.org/10.1007/BF00447326},
+	doi = {10.1007/BF00447326},
+	abstract = {A halophilic bacterium was isolated from bottom sediment from the Dead Sea. The organism possessed the properties of the halobacteria, but differed from the known species in two important respects, 1) the cells were disc-shaped and often cupped when grown under optimum conditions, 2) the optimum requirements for sodium chloride was in the range 1.7--2.5 molar which is about half of that generally reported for the halobacteria. The organism was assigned to the genus Halobacterium and described as Halobacterium volcanii spec.nov. The optimum sodium chloride concentration for growth was close to that found in the Dead Sea. The tolerance for magnesium chloride was very high; the organism grew well in media containing magnesium chloride in the concentrations found in the Dead Sea. Halobacterium volcanii is therefore remarkably well fitted for life in the Dead Sea.},
+	number = {1},
+	journal = {Archives of Microbiology},
+	author = {Mullakhanbhai, Moiz F and Larsen, Helge},
+	month = jan,
+	year = {1975},
+	note = {Citation Key: Mullakhanbhai1975},
+	pages = {207--214}
+}
+
+@article{volcani_algae_1940,
+	title = {Algae in the bed of the {Dead} {Sea}},
+	volume = {145},
+	issn = {0028-0836},
+	abstract = {THE presence of living micro-organisms-algæ and bacteria—in Dead Sea water was demonstrated by me some time ago.1 It seemed, therefore, probable that life was also abundant in the sediment bed of the Dead Sea. To throw light on this point an investigation on a sample of sediment obtained from the sea bottom has been carried out.},
+	journal = {Nature},
+	author = {Volcani, B E},
+	year = {1940},
+	note = {ISBN: 0028-0836},
+	pages = {975}
+}
+
+@article{wilkansky_life_1936,
+	title = {Life in the {Dead} {Sea}},
+	volume = {138},
+	url = {http://dx.doi.org/10.1038/138467a0},
+	journal = {Nature},
+	author = {WILKANSKY, B},
+	month = sep,
+	year = {1936},
+	note = {Publisher: Nature Publishing Group},
+	pages = {467}
+}
+
+@article{farci_coexisting_2018,
+	title = {Coexisting properties of thermostability and ultraviolet radiation resistance in the main {S}-layer complex of {Deinococcus} radiodurans},
+	url = {http://dx.doi.org/10.1039/C7PP00240H},
+	doi = {10.1039/C7PP00240H},
+	abstract = {Deinococcus radiodurans is well known for its unusual resistance to different environmental stresses. Recently\{,\} we have described a novel complex composed of the surface (S)-layer protein DR\_2577 and the carotenoid deinoxanthin. We also showed a role of this complex in the UV resistance under desiccation. Both these properties\{,\} UV and desiccation resistance\{,\} suggest a selective pressure generated by Sun irradiation. In order to confirm this hypothesis we checked whether this S-layer Deinoxanthin Binding Complex (SDBC) has features of thermo-resistance\{,\} a property also expected in proteins evolved under solar irradiative pressure. We performed the spectroscopic characterization of the SDBC by means of thermal shift assay\{,\} circular dichroism and related in silico analysis. Our findings identify a stability typical of thermo-adapted proteins and provide a new insight into the origin of specific S-layer types. The results are discussed in terms of co-evolutionary mechanisms related to Sun-induced desiccation and heat.},
+	journal = {Photochem. Photobiol. Sci.},
+	author = {Farci, Domenica and Slavov, Chavdar and Piano, Dario},
+	year = {2018},
+	note = {Publisher: The Royal Society of Chemistry
+Citation Key: Farci 2018},
+	pages = {--}
+}
+
+@article{ruiz-gonzalez_resistance_2016,
+	title = {Resistance of {Feather}-{Associated} {Bacteria} to {Intermediate} {Levels} of {Ionizing} {Radiation} near {Chernobyl}},
+	volume = {6},
+	issn = {20452322},
+	doi = {10.1038/srep22969},
+	abstract = {Ionizing radiation has been shown to produce negative effects on organisms, although little is known about its ecological and evolutionary effects. As a study model, we isolated bacteria associated with feathers from barn swallows Hirundo rustica from three study areas around Chernobyl differing in background ionizing radiation levels and one control study site in Denmark. Each bacterial community was exposed to four different γ radiation doses ranging from 0.46 to 3.96 kGy to test whether chronic exposure to radiation had selected for resistant bacterial strains. Experimental radiation duration had an increasingly overall negative effect on the survival of all bacterial communities. After exposure to γ radiation, bacteria isolated from the site with intermediate background radiation levels survived better and produced more colonies than the bacterial communities from other study sites with higher or lower background radiation levels. Long-term effects of radiation in natural populations might be an important selective pressure on traits of bacteria that facilitate survival in certain environments. Our findings indicate the importance of further studies to understand the proximate mechanisms acting to buffer the negative effects of ionizing radiation in natural populations.},
+	journal = {Scientific Reports},
+	author = {Ruiz-González, Mario Xavier and Czirják, Gábor Árpád and Genevaux, Pierre and Møller, Anders Pape and Mousseau, Timothy Alexander and Heeb, Philipp},
+	year = {2016},
+	pmid = {26976674}
+}
+
+@article{rothfuss_involvement_2006,
+	title = {Involvement of the {S}-layer proteins {Hpi} and {SlpA} in the maintenance of cell envelope integrity in {Deinococcus} radiodurans {R}1},
+	volume = {152},
+	issn = {13500872},
+	doi = {10.1099/mic.0.28971-0},
+	abstract = {The potential functions have been investigated of two proteins in Deinococcus radiodurans R1 predicted to be involved in the maintenance and integrity of the S layer: the hexagonally packed intermediate (Hpi) protein, and SlpA (DR2577), a homologue of an S-layer SlpA protein in Thermus thermophilus. Deletion of the hpi gene had little effect on the structure of the cell envelope or on shear-or solvent-induced stress responses. However, deletion of the slpA gene caused substantial alterations in cell envelope structure, and a significant defect in resistance to solvent and shear stresses compared to the wild-type. Ultrastructural analysis of slpA mutant cells indicated loss of much of the outer Hpi protein carbohydrate coat, the 'pink envelope', and the membrane-like backing layer. Together these results suggest that the SlpA protein may be involved in attachment of the Hpi surface layer to the inner cell envelope, and that SlpA may play an important role in the maintenance of cell envelope integrity in D. radiodurans.},
+	number = {9},
+	journal = {Microbiology},
+	author = {Rothfuss, Heather and Lara, Jimmie C. and Schmid, Amy K. and Lidstrom, Mary E.},
+	year = {2006},
+	pmid = {16946272},
+	note = {ISBN: 1350-0872 (Print){\textbackslash}r1350-0872 (Linking)},
+	pages = {2779--2787}
+}
+
+@article{brooks_nomenclature_1981,
+	title = {Nomenclature for "{Micrococcus} radiodurans" and other radiation-resistant {Cocci}: {Deinococcaceae} fam. nov. and {Deinococcus} gen. nov., including five species},
+	volume = {31},
+	issn = {0020-7713},
+	doi = {10.1099/00207713-31-3-353},
+	abstract = {The data assembled by Brooks et al. (Int. J. Syst. Bacteriol. 30:627–646, 1980) suggest that the radiation-resistant, red, gram-positive, tetrad-forming cocci exemplified by “Micrococcus radiodurans” (not on Approved Lists of Bacterial Names [Skerman et al., Int. J. System. Bacteriol. 30:225–420, 1980]) are a distinct natural group separate from Micrococcus. The nomenclature proposed here for these organisms utilizes specific epithets used in the original names of these organisms, which names were made illegitimate by omission from the Approved Lists. One species is added to those named before 1 January 1980. The proposals are as follows:{\textbackslash}nDeinococcaceae fam. nov.{\textbackslash}nDeinococcus gen. nov. (type genus){\textbackslash}nD. radiodurans nom. nov. (type species){\textbackslash}nD. radiophilus nom. nov.{\textbackslash}nD. proteolyticus nom. nov.{\textbackslash}nD. radiopugnans sp. nov.{\textbackslash}nSpecies incertae sedis D. erythromyxa nom. nov. Descriptions of the taxa are provided.},
+	number = {3},
+	journal = {International Journal of Systematic Bacteriology},
+	author = {Brooks, B. W. and Murray, R. G. E.},
+	year = {1981},
+	note = {ISBN: 0020-7713},
+	pages = {353--360}
+}
+
+@article{peters_nucleotide_1987,
+	title = {Nucleotide sequence analysis of the gene encoding the {Deinococcus} radiodurans surface protein, derived amino acid sequence, and complementary protein chemical studies},
+	volume = {169},
+	url = {http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=3667529},
+	abstract = {The complete nucleotide sequence of the gene encoding the surface (hexagonally packed intermediate [HPI])-layer polypeptide of Deinococcus radiodurans Sark was determined and found to encode a polypeptide of 1,036 amino acids. Amino acid sequence analysis of about 30\% of the residues revealed that the mature polypeptide consists of at least 978 amino acids. The N terminus was blocked to Edman degradation. The results of proteolytic modification of the HPI layer in situ and Mr estimations of the HPI polypeptide expressed in Escherichia coli indicated that there is a leader sequence. The N-terminal region contained a very high percentage (29\%) of threonine and serine, including a cluster of nine consecutive serine or threonine residues, whereas a stretch near the C terminus was extremely rich in aromatic amino acids (29\%). The protein contained at least two disulfide bridges, as well as tightly bound reducing sugars and fatty acids.},
+	number = {11},
+	journal = {J Bacteriol},
+	author = {Peters, J and Peters, M and Lottspeich, F and Schafer, W and Baumeister, W},
+	year = {1987},
+	pmid = {3667529},
+	note = {ISBN: 0021-9193 (Print){\textbackslash}r0021-9193 (Linking)},
+	keywords = {*Genes, *Genes, Bacterial, Amino Acid Sequence, Bacterial Proteins/*genetics, Base Sequence, Carbohydrates/analysis, Fatty Acids/analysis, Gram-Positive Bacteria/*genetics, Membrane Lipids/analysis, Molecular Sequence Data, Protein Processing, Post-Translational},
+	pages = {5216--5223}
+}
+
+@article{tirgari_transformation_1980,
+	title = {Transformation in {Micrococcus} radiodurans: measurement of various parameters and evidence for multiple, independently segregating genomes per cell},
+	volume = {119},
+	issn = {13500872},
+	url = {http://mic.microbiologyresearch.org/content/journal/micro/10.1099/00221287-119-2-287},
+	doi = {10.1099/00221287-119-2-287},
+	number = {2},
+	journal = {Journal of General Microbiology},
+	author = {TIRGARI, SIMIN and Moseley, B E B},
+	year = {1980},
+	note = {Citation Key: TIRGARI, SIMIN Moseley, B E B, 1980
+ISBN: 1350-0872},
+	pages = {287--296}
+}
+
+@article{battista_against_1997,
+	title = {Against all odds: the survival strategies of {Deinococcus} radiodurans.},
+	volume = {51},
+	issn = {0066-4227},
+	doi = {10.1146/annurev.micro.51.1.203},
+	abstract = {Bacteria of the genus Deinococcus exhibit an extraordinary ability to withstand the lethal and mutagenic effects of DNA damaging agents-particularly the effects of ionizing radiation. These bacteria are the most DNA damage-tolerant organisms ever identified. Relatively little is known about the biochemical basis for this phenomenon; however, available evidence indicates that efficient repair of DNA damage is, in large part, responsible for the deinococci's radioresistance. Obviously, an explanation of the deinococci's DNA damage tolerance cannot be developed solely on the basis of the DNA repair strategies of more radiosensitive organisms. The deinococci's capacity to survive DNA damage suggests that (a) they employ repair mechanisms that are fundamentally different from other prokaryotes, or that (b) they have the ability to potentiate the effectiveness of the conventional complement of DNA repair proteins. An argument is made for the latter alternative.},
+	journal = {Annual review of microbiology},
+	author = {Battista, J R},
+	year = {1997},
+	pmid = {9343349},
+	note = {ISBN: 0066-4227 (Print)},
+	keywords = {dna repair, interchromosomal recombination, ionizing radiation resistance, regulatory checkpoints, uv resistance},
+	pages = {203--224}
+}
+
+@article{farci_s-layer_2016,
+	title = {The {S}-layer protein {DR}\_2577 binds deinoxanthin and under desiccation conditions protects against {UV}-radiation in {Deinococcus} radiodurans},
+	volume = {7},
+	issn = {1664302X},
+	doi = {10.3389/fmicb.2016.00155},
+	abstract = {Deinococcus radiodurans has the puzzling ability to withstand over a broad range of extreme conditions including high doses of ultraviolet radiation and deep desiccation. This bacterium is surrounded by a surface layer (S-layer) built of a regular repetition of several proteins, assembled to form a paracrystalline structure. Here we report that the deletion of a main constituent of this S-layer, the gene DR\_2577, causes a decrease in the UVC resistance, especially in desiccated cells. Moreover, we show that the DR\_2577 protein binds the carotenoid deinoxanthin, a strong protective antioxidant specific of this bacterium. A further spectroscopical characterization of the deinoxanthin-DR\_2577 complex revealed features which could suggest a protective role of DR\_2577. We propose that, especially under desiccation, the S-layer shields the bacterium from incident ultraviolet light and could behave as a first lane of defense against UV radiation.},
+	number = {FEB},
+	journal = {Frontiers in Microbiology},
+	author = {Farci, Domenica and Slavov, Chavdar and Tramontano, Enzo and Piano, Dario},
+	year = {2016},
+	pmid = {26909071},
+	keywords = {DR\_2577, Deinococcus radiodurans, Deinoxanthin, Desiccation, Quenching, Radiation-resistance, S-layer, UV light}
+}
+
+@article{anderson_studies_1956,
+	title = {{STUDIES} {ON} {A} {RADIO}-{RESISTANT} {MICROCOCCUS} .1. {ISOLATION}, {MORPHOLOGY}, {CULTURAL} {CHARACTERISTICS}, {AND} {RESISTANCE} {TO} {GAMMA} {RADIATION}},
+	volume = {10},
+	issn = {0015-6639},
+	number = {12},
+	journal = {FOOD TECHNOLOGY},
+	author = {ANDERSON, A W and NORDAN, H C and CAIN, R F and PARRISH, G and DUGGAN, D},
+	year = {1956},
+	note = {Publisher: INST FOOD TECHNOLOGISTS
+Type: Article
+Citation Key: Anderson 1956
+Place: SUITE 300 221 N LASALLE ST, CHICAGO, IL 60601-1291},
+	pages = {575--578}
+}
+
+@article{baumeister_major_1982,
+	title = {The {Major} {Cell} {Envelope} {Protein} of {Micrococcus} radiodurans ({R}1): {Structural} and {Chemical} {Characterization}},
+	volume = {125},
+	issn = {14321033},
+	doi = {10.1111/j.1432-1033.1982.tb06715.x},
+	abstract = {The so-called HPI layer, representing the major cell envelope protein of the radiotolerant bacterium Micro- coccus radiodurans, is a hexagonally patterned macromolecular monolayer ; it is intimately associated with the outer membraneous layer (‘backing layer’) of the bacterium and covers its surface completely. By virtue of its quite unusual resistance to chemical perturbants it can easily be isolated, e.g. by detergent extraction of whole cells. A detailed description of the morphology of the HPI layer protein is given (resolution 1.8 nm), based on electron microscopy and image processing. Infrared spectroscopy shows that the secondary structure of the protein is stable under a wide range of environmental conditions; a considerable portion (30\%) of the protein exists in the form of j structure. Direct mass measurements in a scanning transmission electron microscope reveal that the HPI layer protein has a molecular mass of approximately 655 kDa. Although masked by extensive proteolytic cleavage it appears that the morphologicaI protein units are composed of six identical protomers. All evidence accumulated so far supports our view that proteolysis is not a preparation artifact, but occurs already in vivo, without affecting the physical structure of the protein.},
+	number = {3},
+	journal = {European Journal of Biochemistry},
+	author = {BAUMEISTER, Wolfgang and KARRENBERG, Franck and RACHEL, Reinhard and ENGEL, Andreas and TEN HEGGELER, Beatrice and SAXTON, W. Owen},
+	year = {1982},
+	pmid = {7117252},
+	note = {ISBN: 1432-1033},
+	pages = {535--544}
+}
+
+@article{shrivastava_flavobacterium_2012,
+	title = {Flavobacterium johnsoniae {RemA} {Is} a {Mobile} {Cell} {Surface} {Lectin} {Involved} in {Gliding}},
+	volume = {194},
+	url = {http://jb.asm.org/content/194/14/3678.abstract},
+	doi = {10.1128/JB.00588-12},
+	abstract = {Cells of Flavobacterium johnsoniae move rapidly over surfaces by a process known as gliding motility. Gld proteins are thought to comprise the motor that propels the cell surface adhesin SprB. Cells with mutations in sprB are partially defective in motility and are also resistant to some bacteriophages. Transposon mutagenesis of a strain carrying a deletion spanning sprB identified eight mutants that were resistant to additional phages and exhibited reduced motility. Four of the mutants had transposon insertions in remA, which encodes a cell surface protein that has a lectin domain and appears to interact with polysaccharides. Three other genes identified in this screen (remC, wza, and wzc) encode proteins predicted to be involved in polysaccharide synthesis and secretion. Myc-tagged versions of RemA localized to the cell surface and were propelled rapidly along the cell at speeds of 1 to 2 μm/s. Deletion of gldN and gldO, which encode components of a bacteroidete protein secretion system, blocked the transport of RemA to the cell surface. Overexpression of RemA resulted in the formation of cell aggregates that were dispersed by the addition of galactose or rhamnose. Cells lacking RemC, Wza, and Wzc failed to aggregate. Cells of a remC mutant and cells of a remA mutant, neither of which formed aggregates in isolation, aggregated when they were mixed together, suggesting that polysaccharides secreted by one cell may interact with RemA on another cell. Fluorescently labeled lectin Ricinus communis agglutinin I detected polysaccharides secreted by F. johnsoniae. The polysaccharides bound to cells expressing RemA and were rapidly propelled on the cell surface. RemA appears to be a mobile cell surface adhesin, and secreted polysaccharides may interact with the lectin domain of RemA and enhance motility.},
+	number = {14},
+	journal = {Journal of Bacteriology},
+	author = {Shrivastava, Abhishek and Rhodes, Ryan G and Pochiraju, Soumya and Nakane, Daisuke and McBride, Mark J},
+	month = jul,
+	year = {2012},
+	pages = {3678--3688}
+}
+
+@article{johnston_untangling_2018,
+	title = {Untangling {Flavobacterium} johnsoniae {Gliding} {Motility} and {Protein} {Secretion}},
+	volume = {200},
+	url = {http://jb.asm.org/content/200/2/e00362-17.abstract},
+	doi = {10.1128/JB.00362-17},
+	abstract = {Flavobacterium johnsoniae exhibits rapid gliding motility over surfaces. At least 20 genes are involved in this process. Seven of these, gldK, gldL, gldM, gldN, sprA, sprE, and sprT, encode proteins of the type IX protein secretion system (T9SS). The T9SS is required for surface localization of the motility adhesins SprB and RemA, and for secretion of the soluble chitinase ChiA. Here, we demonstrate that the gliding motility proteins GldA, GldB, GldD, GldF, GldH, GldI, and GldJ are also essential for secretion. Cells with mutations in the genes encoding any of these seven proteins had normal levels of gldK mRNA but dramatically reduced levels of the GldK protein, which may explain the secretion defects of the motility mutants. GldJ is necessary for stable accumulation of GldK, and each mutant lacked the GldJ protein. F. johnsoniae cells that produced truncated GldJ, lacking eight to 13 amino acids from the C terminus, accumulated GldK but were deficient in gliding motility. SprB was secreted by these cells but was not propelled along their surfaces. This C-terminal region of GldJ is thus required for gliding motility but not for secretion. The identification of mutants that are defective for motility but competent for secretion begins to untangle the F. johnsoniae gliding motility machinery from the T9SS.IMPORTANCE Many members of the phylum Bacteroidetes secrete proteins using T9SSs. T9SSs appear to be confined to members of this phylum. Many of these bacteria also glide rapidly over surfaces using a motility machine that is also confined to the Bacteroidetes and appears to be intertwined with the T9SS. This study identifies F. johnsoniae proteins that are required for both T9SS function and gliding motility. It also provides an explanation for the link between secretion and gliding and identifies mutants with defects in motility but not secretion.},
+	number = {2},
+	journal = {Journal of Bacteriology},
+	author = {Johnston, Joseph J and Shrivastava, Abhishek and McBride, Mark J},
+	month = jan,
+	year = {2018}
+}
+
+@article{mcbride_bacterial_2001,
+	title = {Bacterial {Gliding} {Motility}: {Multiple} {Mechanisms} for {Cell} {Movement} over {Surfaces}},
+	volume = {55},
+	url = {https://doi.org/10.1146/annurev.micro.55.1.49},
+	doi = {10.1146/annurev.micro.55.1.49},
+	abstract = {▪ Abstract The mechanisms responsible for bacterial gliding motility have been a mystery for almost 200 years. Gliding bacteria move actively over surfaces by a process that does not involve flagella. Gliding bacteria are phylogenetically diverse and are abundant in many environments. Recent results indicate that more than one mechanism is needed to explain all forms of bacterial gliding motility. Myxococcus xanthus “social gliding motility” and Synechocystis gliding are similar to bacterial “twitching motility” and rely on type IV pilus extension and retraction for cell movement. In contrast, gliding of filamentous cyanobacteria, mycoplasmas, members of the Cytophaga-Flavobacterium group, and “adventurous gliding” of M. xanthus do not appear to involve pili. The mechanisms of movement employed by these bacteria are still a matter of speculation. Genetic, biochemical, ultrastructural, and behavioral studies are providing insight into the machineries employed by these diverse bacteria that enable them to glide over surfaces.},
+	number = {1},
+	journal = {Annual Review of Microbiology},
+	author = {McBride, Mark J},
+	year = {2001},
+	note = {Citation Key: doi:10.1146/annurev.micro.55.1.49},
+	pages = {49--75}
+}
+
+@article{andreassen_natural_2014,
+	title = {Natural {LacI} from {E}. coli yields faster response and higher level of expression than the {LVA}-tagged {LacI}.},
+	volume = {3},
+	issn = {2161-5063 (Electronic)},
+	doi = {10.1021/sb500031h},
+	abstract = {The lac promoter is one of the most commonly used promoters for expression control of recombinant genes in E. coli. In the absence of galactosides, the lac promoter is repressed by its repressor protein LacI. Since the lac promoter is regulated by a repressor, overexpression of LacI is necessary for regulation when the promoter is introduced on a high-copy plasmid. For that purpose, a modified variant of LacI, a LVA-tagged LacI, was submitted to the Registry of Standard Biological Parts and has been used for more than 500 constructs since then. We have found, however, that natural LacI is superior to the LVA-tagged LacI as controller of expression.},
+	language = {eng},
+	number = {12},
+	journal = {ACS synthetic biology},
+	author = {Andreassen, Patrick Rosendahl and Fredberg, Sofie and Horan, Mattias and Knudsen, Maria Hojberg and Jacobsen, Kirstine and Kjaer, Andreas and Krogh, Thoger Jensen and Kronborg, Tina and Mattsson, Nicky Cordua and Schmidt, Sissel Ida and Wille, Heidi and Andersen, Ann},
+	month = dec,
+	year = {2014},
+	pmid = {25524095},
+	note = {Place: United States},
+	keywords = {Escherichia coli, Genetic Engineering, Green Fluorescent Proteins, Lac Operon, Promoter Regions, Genetic, Spectrometry, Fluorescence, genetics, metabolism, methods},
+	pages = {949--952}
+}
+
+@article{alvarado_coupling_2017,
+	title = {Coupling chemosensory array formation and localization.},
+	volume = {6},
+	issn = {2050-084X (Electronic)},
+	doi = {10.7554/eLife.31058},
+	abstract = {Chemotaxis proteins organize into large, highly ordered, chemotactic signaling arrays, which in Vibrio species are found at the cell pole. Proper localization of signaling arrays is mediated by ParP, which tethers arrays to a cell pole anchor, ParC. Here we show that ParP's C-terminus integrates into the core-unit of signaling arrays through interactions with MCP-proteins and CheA. Its intercalation within core-units stimulates array formation, whereas its N-terminal interaction domain enables polar recruitment of arrays and facilitates its own polar localization. Linkage of these domains within ParP couples array formation and localization and results in controlled array positioning at the cell pole. Notably, ParP's integration into arrays modifies its own and ParC's subcellular localization dynamics, promoting their polar retention. ParP serves as a critical nexus that regulates the localization dynamics of its network constituents and drives the localized assembly and stability of the chemotactic machinery, resulting in proper cell pole development.},
+	language = {eng},
+	journal = {eLife},
+	author = {Alvarado, Alejandra and Kjaer, Andreas and Yang, Wen and Mann, Petra and Briegel, Ariane and Waldor, Matthew K and Ringgaard, Simon},
+	month = oct,
+	year = {2017},
+	pmid = {29058677},
+	note = {Place: England}
+}
+
+@article{chang_architecture_2017,
+	title = {Architecture of the {Vibrio} cholerae toxin-coregulated pilus machine revealed by electron cryotomography},
+	volume = {2},
+	doi = {10.1038/nmicrobiol.2016.269},
+	abstract = {© 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. Type IV pili (T4P) are filamentous appendages found on many Bacteria and Archaea. They are helical fibres of pilin proteins assembled by a multi-component macromolecular machine we call the basal body. Based on pilin features, T4P are classified into type IVa pili (T4aP) and type IVb pili (T4bP) 1,2. T4aP are more widespread and are involved in cell motility 3, DNA transfer 4, host predation 5 and electron transfer 6. T4bP are less prevalent and are mainly found in enteropathogenic bacteria, where they play key roles in host colonization 7. Following similar work on T4aP machines 8,9, here we use electron cryotomography 10 to reveal the three-dimensional in situ structure of a T4bP machine in its piliated and non-piliated states. The specific machine we analyse is the Vibrio cholerae toxin-coregulated pilus machine (TCPM). Although only about half of the components of the TCPM show sequence homology to components of the previously analysed Myxococcus xanthus T4aP machine (T4aPM), we find that their structures are nevertheless remarkably similar. Based on homologies with components of the M. xanthus T4aPM and additional reconstructions of TCPM mutants in which the non-homologous proteins are individually deleted, we propose locations for all eight TCPM components within the complex. Non-homologous proteins in the T4aPM and TCPM are found to form similar structures, suggesting new hypotheses for their functions and evolutionary histories.},
+	journal = {Nature Microbiology},
+	author = {Chang, Y.-W. and Kjær, A. and Ortega, D.R. and Kovacikova, G. and Sutherland, J.A. and Rettberg, L.A. and Taylor, R.K. and Jensen, G.J.},
+	year = {2017}
+}
+
+@article{briegel_chemotaxis_2016,
+	title = {Chemotaxis cluster 1 proteins form cytoplasmic arrays in {Vibrio} cholerae and are stabilized by a double signaling domain receptor {DosM}},
+	volume = {113},
+	doi = {10.1073/pnas.1604693113},
+	abstract = {Nearly all motile bacterial cells use a highly sensitive and adaptable sensory system to detect changes in nutrient concentrations in the environment and guide their movements toward attractants and away from repellents. The best-studied bacterial chemoreceptor arrays are membrane-bound. Many motile bacteria contain one or more additional, sometimes purely cytoplasmic, chemoreceptor systems. Vibrio cholerae contains three chemotaxis clusters (I, II, and III). Here, using electron cryotomography, we explore V. cholerae's cytoplasmic chemoreceptor array and establish that it is formed by proteins from cluster I. We further identify a chemoreceptor with an unusual domain architecture, DosM, which is essential for formation of the cytoplasmic arrays. DosM contains two signaling domains and spans the two-layered cytoplasmic arrays. Finally, we present evidence suggesting that this type of receptor is important for the structural stability of the cytoplasmic array.},
+	number = {37},
+	journal = {Proceedings of the National Academy of Sciences of the United States of America},
+	author = {Briegel, A. and Ortega, D.R. and Mann, P. and Kjær, A. and Ringgaard, S. and Jensen, G.J.},
+	year = {2016}
+}
+
+@article{briegel_morphology_2017,
+	title = {Morphology of the archaellar motor and associated cytoplasmic cone in {Thermococcus} kodakaraensis},
+	volume = {18},
+	doi = {10.15252/embr.201744070},
+	abstract = {© 2017 The Authors Archaeal swimming motility is driven by archaella: rotary motors attached to long extracellular filaments. The structure of these motors, and particularly how they are anchored in the absence of a peptidoglycan cell wall, is unknown. Here, we use electron cryotomography to visualize the archaellar basal body in vivo in Thermococcus kodakaraensis KOD1. Compared to the homologous bacterial type IV pilus (T4P), we observe structural similarities as well as several unique features. While the position of the cytoplasmic ATPase appears conserved, it is not braced by linkages that extend upward through the cell envelope as in the T4P, but rather by cytoplasmic components that attach it to a large conical frustum up to 500 nm in diameter at its base. In addition to anchoring the lophotrichous bundle of archaella, the conical frustum associates with chemosensory arrays and ribosome-excluding material and may function as a polar organizing center for the coccoid cells.},
+	number = {9},
+	journal = {EMBO Reports},
+	author = {Briegel, A. and Oikonomou, C.M. and Chang, Y.-W. and Kjær, A. and Huang, A.N. and Kim, K.W. and Ghosal, D. and Nguyen, H.H. and Kenny, D. and Ogorzalek Loo, R.R. and Gunsalus, R.P. and Jensen, G.J.},
+	year = {2017}
+}
+
+@article{dobro_uncharacterized_2017,
+	title = {Uncharacterized bacterial structures revealed by electron cryotomography},
+	volume = {199},
+	doi = {10.1128/JB.00100-17},
+	abstract = {© 2017 American Society for Microbiology. Electron cryotomography (ECT) can reveal the native structure and arrangement of macromolecular complexes inside intact cells. This technique has greatly advanced our understanding of the ultrastructure of bacterial cells. We now view bacteria as structurally complex assemblies of macromolecular machines rather than as undifferentiated bags of enzymes. To date, our group has applied ECT to nearly 90 different bacterial species, collecting more than 15,000 cryotomograms. In addition to known structures, we have observed, to our knowledge, several uncharacterized features in these tomograms. Some are completely novel structures; others expand the features or species range of known structure types. Here, we present a survey of these uncharacterized bacterial structures in the hopes of accelerating their identification and study, and furthering our understanding of the structural complexity of bacterial cells.},
+	number = {17},
+	journal = {Journal of Bacteriology},
+	author = {Dobro, M.J. and Oikonomou, C.M. and Piper, A. and Cohen, J. and Guo, K. and Jensen, T. and Tadayon, J. and Donermeyer, J. and Park, Y. and Solis, B.A. and Kjær, A. and Jewett, A.I. and McDowall, A.W. and Chen, S. and Chang, Y.-W. and Shi, J. and Subramanian, P. and Iancu, C.V. and Li, Z. and Briegel, A. and Tocheva, E.I. and Pilhofer, M. and Jensen, G.J.},
+	year = {2017}
+}
+
+@article{saitoh_evaluation_2005,
+	title = {Evaluation of protein crystallization states based on texture information derived from greyscale images},
+	volume = {61},
+	issn = {09074449},
+	doi = {10.1107/S0907444905007948},
+	abstract = {In recent years, several projects have advanced research and development related to the automation of the protein crystallization process. However, evaluation of crystallization states has not yet been completely automated. In the usual crystallization process, researchers evaluate the protein crystallization growth states based on visual impressions and assign them a score over and over again. The method presented here automates this evaluation process. This method attempts to categorize the individual crystallization droplet images into five classes. The algorithm is comprised of pre-processing, feature extraction from images using texture analysis and a categorization process using linear discriminant analysis. The performance of this method has been evaluated by comparing the results obtained by using this method with the results from a human expert and the concordance rate was 90.6\%.},
+	number = {7},
+	journal = {Acta Crystallographica Section D: Biological Crystallography},
+	author = {Saitoh, Kanako and Kawabata, Kuniaki and Asama, Hajime and Mishima, Taketoshi and Sugahara, Mitsuaki and Miyano, Masashi},
+	year = {2005},
+	pmid = {15983409},
+	note = {ISBN: 0907-4449 (Print){\textbackslash}r0907-4449 (Linking)},
+	pages = {873--880}
+}
+
+@article{sigdel_real-time_2013,
+	title = {Real-time protein crystallization image acquisition and classification system},
+	volume = {13},
+	issn = {15287483},
+	doi = {10.1021/cg3016029},
+	abstract = {In this paper, we describe the design and{\textbackslash}r{\textbackslash}nimplementation of a stand-alone real-time system for protein{\textbackslash}r{\textbackslash}ncrystallization image acquisition and classification with a goal{\textbackslash}r{\textbackslash}nto assist crystallographers in scoring crystallization trials. An in-{\textbackslash}r{\textbackslash}nhouse assembled fluorescence microscopy system is built for{\textbackslash}r{\textbackslash}nimage acquisition. The images are classified into three{\textbackslash}r{\textbackslash}ncategories as noncrystals, likely leads, and crystals. Image classification consists of two main steps  image feature extraction and application of classification based on multilayer perceptron (MLP) neural networks. Our feature extraction involves applying multiple thresholding techniques, identifying high intensity regions (blobs), and generating intensity and blob features to obtain a 45-dimensional feature vector per image. To reduce the risk of missing crystals, we introduce a max-class ensemble classifier which applies multiple classifiers and chooses the highest score (or class). We performed our experiments on 2250 images consisting of 67\% noncrystal, 18\% likely leads, and 15\% clear crystal images and tested our results using 10-fold cross validation. Our results demonstrate that the method is very efficient ({\textless}3 s to process and classify an image) and has comparatively high accuracy. Our system only misses 1.2\% of the crystals (classified as noncrystals) most likely due to low illumination or out of focus image capture and has an overall accuracy of 88\%.},
+	number = {7},
+	journal = {Crystal Growth and Design},
+	author = {Sigdel, Madhav and Pusey, Marc L. and Aygun, Ramazan S.},
+	year = {2013},
+	pages = {2728--2736}
+}
+
+@article{pan_automated_2006,
+	title = {Automated classification of protein crystallization images using support vector machines with scale-invariant texture and {Gabor} features},
+	volume = {62},
+	issn = {09074449},
+	doi = {10.1107/S0907444905041648},
+	abstract = {Protein crystallography laboratories are performing an increasing number of experiments to obtain crystals of good diffraction quality. Better automation has enabled researchers to prepare and run more experiments in a shorter time. However, the problem of identifying which experiments are successful remains difficult. In fact, most of this work is still performed manually by humans. Automating this task is therefore an important goal. As part of a project to develop a new and automated high-throughput capillary-based protein crystallography instrument, a new image-classification subsystem has been developed to greatly reduce the number of images that require human viewing. This system must have low rates of false negatives (missed crystals), possibly at the cost of raising the number of false positives. The image-classification system employs a support vector machine (SVM) learning algorithm to classify the blocks making up each image. A new algorithm to find the area within the image that contains the drop is employed. The SVM uses numerical features, based on texture and the Gabor wavelet decomposition, that are calculated for each block. If a block within an image is classified as containing a crystal, then the entire image is classified as containing a crystal. In a study of 375 images, 87 of which contained crystals, a false-negative rate of less than 4\% with a false-positive rate of about 40\% was consistently achieved.},
+	number = {3},
+	journal = {Acta Crystallographica Section D: Biological Crystallography},
+	author = {Pan, Shen and Shavit, Gidon and Penas-Centeno, Marta and Xu, Dong Hui and Shapiro, Linda and Ladner, Richard and Riskin, Eve and Hol, Wim and Meldrum, Deirdre},
+	year = {2006},
+	pmid = {16510974},
+	note = {ISBN: 0907-4449},
+	pages = {271--279}
+}
+
+@article{duda_use_1972,
+	title = {Use of the {Hough} transformation to detect lines and curves in pictures},
+	volume = {15},
+	issn = {00010782},
+	url = {http://portal.acm.org/citation.cfm?doid=361237.361242},
+	doi = {10.1145/361237.361242},
+	abstract = {Hough has proposed an interesting and computationally efficient pro- cedure for detecting lines in pictures. In this paper we point out that the use of angle-radius rather than s lope-intercept parameters simplifies the computation further. We also show how the method can be used for more general curve fi tting, and give alternative interpretations that explain the source of its efficiency.},
+	number = {1},
+	journal = {Communications of the ACM},
+	author = {Duda, Richard O. and Hart, Peter E.},
+	year = {1972},
+	pmid = {1102},
+	note = {ISBN: 0001-0782},
+	pages = {11--15}
+}
+
+@article{berry_spine_2006,
+	title = {{SPINE} high-throughput crystallization, crystal imaging and recognition techniques: {Current} state, performance analysis, new technologies and future aspects},
+	volume = {62},
+	issn = {09074449},
+	doi = {10.1107/S090744490602943X},
+	abstract = {This paper reviews the developments in high-throughput and nanolitre-scale protein crystallography technologies within the remit of workpackage 4 of the Structural Proteomics In Europe (SPINE) project since the project's inception in October 2002. By surveying the uptake, use and experience of new technologies by SPINE partners across Europe, a picture emerges of highly successful adoption of novel working methods revolutionizing this area of structural biology. Finally, a forward view is taken of how crystallization methodologies may develop in the future.},
+	number = {10},
+	journal = {Acta Crystallographica Section D: Biological Crystallography},
+	author = {Berry, Ian M. and Dym, O. and Esnouf, R. M. and Harlos, K. and Meged, R. and Perrakis, A. and Sussman, J. L. and Walter, T. S. and Wilson, J. and Messerschmidt, Albrecht},
+	year = {2006},
+	pmid = {17001091},
+	note = {ISBN: 0907-4449 (Print){\textbackslash}r0907-4449 (Linking)},
+	keywords = {Automation, Crystallization, Minimization},
+	pages = {1137--1149}
+}
+
+@article{mukhopadhyay_survey_2015,
+	title = {A survey of {Hough} {Transform}},
+	volume = {48},
+	issn = {00313203},
+	doi = {10.1016/j.patcog.2014.08.027},
+	abstract = {In 1962 Hough earned the patent for a method [1], popularly called Hough Transform (HT) that efficiently identifies lines in images. It is an important tool even after the golden jubilee year of existence, as evidenced by more than 2500 research papers dealing with its variants, generalizations, properties and applications in diverse fields. The current paper is a survey of HT and its variants, their limitations and the modifications made to overcome them, the implementation issues in software and hardware, and applications in various fields. Our survey, along with more than 200 references, will help the researchers and students to get a comprehensive view on HT and guide them in applying it properly to their problems of interest.},
+	number = {3},
+	journal = {Pattern Recognition},
+	author = {Mukhopadhyay, Priyanka and Chaudhuri, Bidyut B.},
+	year = {2015},
+	keywords = {Digital Hough Transform (DHT), Generalized Hough Transform (GHT), Hough Transform (HT), Probabilistic Hough Transform (PHT), Randomized Hough Transform (RHT)},
+	pages = {993--1010}
+}
+
+@article{bern_automatic_2004,
+	title = {Automatic classification of protein crystallization images using a curve-tracking algorithm},
+	volume = {37},
+	issn = {00218898},
+	doi = {10.1107/S0021889804001761},
+	abstract = {An algorithm for automatic classification of protein crystallization images acquired from a high-throughput vapor-diffusion system is described. The classifier uses edge detection followed by dynamic-programming curve tracking to determine the drop boundary; this technique optimizes a scoring function that incorporates roundness, smoothness and gradient intensity. The classifier focuses on the most promising region in the drop and computes a number of statistical features, including some derived from the Hough transform and from curve tracking. The five classes of images are `Empty', `Clear', `Precipitate', `Microcrystal Hit' and `Crystal'. On test data, the classifier gives about 12\% false negatives (true crystals called `Empty', `Clear' or `Precipitate') and about 14\% false positives (true clears or precipitates called `Crystal' or `Microcrystal Hit').},
+	number = {2},
+	journal = {Journal of Applied Crystallography},
+	author = {Bern, Marshall and Goldberg, David and Stevens, Raymond C. and Kuhn, Peter},
+	year = {2004},
+	pages = {279--287}
+}
